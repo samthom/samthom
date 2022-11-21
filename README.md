@@ -16,7 +16,7 @@
 
 &nbsp;
 <h2 align="center">Stay awesome! 😎</h2>
-<hr>
+
 <br>
 <a rel="me" href="https://hachyderm.io/@samthomas">🐘 Mastodon</a>
 <br>
