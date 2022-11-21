@@ -16,3 +16,4 @@
 
 &nbsp;
 <h2 align="center">Stay awesome! 😎</h2>
+<a rel="me" href="https://hachyderm.io/@samthomas">Mastodon</a>
